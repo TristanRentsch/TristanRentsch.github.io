@@ -9,4 +9,11 @@ body {
   padding: 0;
 }
 
+h1 {
+  color: #FFF;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+}
+
 .test {color:teal}
