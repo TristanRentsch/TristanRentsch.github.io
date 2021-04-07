@@ -1,3 +1,7 @@
+#site-title {
+  margin: 3;
+}
+
 body {
   /* Old browsers */
   background: #141E30;
@@ -14,10 +18,6 @@ h1 {
   font-size: 2em;
   width: 100%;
   text-align: center;
-}
-
-.headline {
-  margin: 3;
 }
 
 .center-image {
